@@ -1,0 +1,7 @@
+^BUILD$
+^.cache$
+^.mbed$
+^C12832$
+^.clangd$
+^compile_commands.json$
+^mbed$
